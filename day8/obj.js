@@ -17,3 +17,4 @@ a={
 };
 console.log(a.name);
 a.stop();
+console.log(a);
