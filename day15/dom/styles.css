@@ -1,0 +1,19 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: black;
+}
+button{
+    border: none;
+    background-color: none;
+}
+div{
+    background-color: white;
+    border:2p solid black;
+    width:25%;
+}

@@ -1,0 +1,32 @@
+
+*{
+    background-color: black;
+    color:white;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+.box{
+    width:200px;
+    height:200px;
+    background-color: blue;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+    font-size: 20px;
+}
+.highlight{
+    width:20px;
+    background-color: red;
+    color:gainsboro;
+    transform: scale(1.2);
+}
+.rounded{
+    border-radius: 50%;
+}
+.shadow{
+    box-shadow: 10px 20px 80px gold;
+}
